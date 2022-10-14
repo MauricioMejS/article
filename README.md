@@ -1,18 +1,18 @@
 # Articles App
 
 <p align="center">
-    <a href="https://mauriciomejs.github.io/Advice-generator-app/">View Demo</a>
+    <a href="https://articles-ijhvaf5bp-mauriciomejs.vercel.app/">View Demo</a>
     ·
-    <a href="https://github.com/MauricioMejS/Advice-generator-app/issues/new">Report Bug</a>
+    <a href="https://github.com/MauricioMejS/article/issues/new">Report Bug</a>
     ·
-    <a href="https://github.com/MauricioMejS/Advice-generator-app/issues/new">Request Feature</a>
+    <a href="https://github.com/MauricioMejS/article/issues/new">Request Feature</a>
   </p>
 
 ![](https://i.imgur.com/KoiJ6mj.png)
 
 
 
-App where a series of articles and their description of each selected article are shown using React and Material UI, in addition to using Atomic designe for the project structure
+App where a series of articles and their description of each selected article are shown using React and Material UI, in addition to using Atomic design for the project structure
 
 ## Table of contents
 
@@ -20,8 +20,7 @@ App where a series of articles and their description of each selected article ar
   - [Links](#links)
 - [My process](#my-process)
   - [Built with](#built-with)
-  - [](#useful-resources)
-- [Installation] (#installation)
+- [Installation](#installation)
 - [Author](#author)
 
 ## Overview
@@ -29,8 +28,8 @@ App where a series of articles and their description of each selected article ar
 
 ### Links
 
-- Solution URL: [Github](https://github.com/MauricioMejS/Advice-generator-app)
-- Live Site URL: [Gitpages](https://mauriciomejs.github.io/Advice-generator-app/)
+- Solution URL: [Github](https://github.com/MauricioMejS/article)
+- Live Site URL: [Vercel](https://articles-ijhvaf5bp-mauriciomejs.vercel.app/)
 
 ## My process
 
@@ -38,6 +37,7 @@ App where a series of articles and their description of each selected article ar
 
 - React.js (18.2.0)
 - Material UI (5.10.9)
+- Atomic Design
 
 
 ## Installation
@@ -46,7 +46,7 @@ App where a series of articles and their description of each selected article ar
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/your_username_/Project-Name.git
+   git clone https://github.com/MauricioMejS/article
    ```
 2. Install NPM packages
    ```sh
